@@ -1,2 +1,2 @@
 # Barber-shop-project
-Small barber shop project.
+barber shop landing page project for TheOdinProject.
